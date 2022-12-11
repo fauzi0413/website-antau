@@ -1,0 +1,26 @@
+.slide-image{
+    height: 500px;
+    
+}
+
+.size-content{
+    min-height: 80vh;
+}
+
+.card-img-top{
+    height: 300px !important;
+}
+
+.logo{
+    width: 300px;
+}
+
+.btn-shadow{
+    border-radius : 12px;
+    box-shadow: 0px 5px 0px 0px #069ab8 !important;
+}
+
+.btn-shadow:active{
+    top : 5px;
+    position : relative;
+}
